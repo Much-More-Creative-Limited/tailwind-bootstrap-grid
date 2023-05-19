@@ -11,9 +11,9 @@
     "rtl",
     "tailwindcss"
   ],
-  "repository": "karolis-sh/tailwind-bootstrap-grid",
+  "repository": "Much-More-Creative-Limited/tailwind-bootstrap-grid",
   "license": "MIT",
-  "author": "Karolis Šarapnickis <hi@karolis.sh>",
+  "author": "Karolis Šarapnickis <hi@karolis.sh> & Rafal Pajak <rafal@muchmorecreative.co.uk>",
   "main": "lib/index.js",
   "files": [
     "lib"
