@@ -1,5 +1,5 @@
 {
-  "name": "tailwind-bootstrap-grid",
+  "name": "@muchmore/tailwind-bootstrap-grid",
   "version": "5.0.1",
   "description": "Tailwind CSS plugin to generate Bootstrap flexbox grid system.",
   "keywords": [
